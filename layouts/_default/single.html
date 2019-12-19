@@ -1,0 +1,50 @@
+
+{{ define "main" }}
+  <header class="w-100 flex fixed bg-white black pa3 pa4-l">
+    <nav class="w-100 flex flex-wrap items-center justify-between container">
+      <div class="w-100 w-33-l dn db-l">
+        <a href="/" alt="Projects">Projects</a>
+      </div>
+      <div class="w-100 w-33-l tc">
+        <h1><a href="#" alt="{{.Title}}">Anne Bertrand</a></h1>
+      </div>
+      <div class="w-100 w-33-l tr dn db-l">
+        <a href="/texts" alt="work">Texts</a>
+        <a href="/about" alt="work">About</a>
+      </div>
+      <!-- mobile nav -->
+      <div class="w-100 w-33-l tc db dn-l">
+        <a href="/" alt="Projects">Projects</a>
+        <a href="/texts" alt="work">Texts</a>
+        <a href="/about" alt="work">About</a>
+      </div>
+      <!-- end mobile nav -->
+    </nav>
+  </header>
+
+  <main class="w-100 flex flex-wrap container">
+
+    <div class="w-100 pa3 flex justify-between">
+      <a href="/"><i class="fas fa-arrow-left black"></i></a>
+      <a href="{{.Params.next_page}}"><i class="fas fa-arrow-right black"></i></a>
+    </div>
+
+    <div class="w-100 w-50-l pa3">
+      <img src="{{.Params.cover_image}}"/>
+    </div>
+
+    <div class="w-100 w-50-l ph4">
+      <h2>{{.Title}}</h2>
+      {{ .Content }}
+    </div>
+
+    {{ range .Params.images }}
+    <div class="w-100 w-50-l pa3">
+      <img src="{{ . }}"/>
+    </div>
+    {{ end }}
+
+
+  </main>
+
+{{ end }}

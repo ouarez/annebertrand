@@ -1,0 +1,73 @@
+
+{{ define "main" }}
+  <header class="w-100 flex fixed bg-white black pa3 pa4-l">
+    <nav class="w-100 flex flex-wrap items-center justify-between container">
+      <div class="w-100 w-33-l dn db-l">
+        <a href="/" alt="Projects">Projects</a>
+      </div>
+      <div class="w-100 w-33-l tc">
+        <h1><a href="#" alt="{{.Title}}">Anne Bertrand</a></h1>
+      </div>
+      <div class="w-100 w-33-l tr dn db-l">
+        <a href="/texts" alt="work">Texts</a>
+        <a href="/about" alt="work">About</a>
+      </div>
+      <!-- mobile nav -->
+      <div class="w-100 w-33-l tc db dn-l">
+        <a href="/" alt="Projects">Projects</a>
+        <a href="/texts" alt="work">Texts</a>
+        <a href="/about" alt="work">About</a>
+      </div>
+      <!-- end mobile nav -->
+    </nav>
+  </header>
+
+  <main class="w-100 flex flex-wrap container">
+    <div class="w-100 w-50-l cover">
+      <div class="overlay"></div>
+      <a href="/projects/work">
+      <div class="text w-100 flex flex-wrap items-center">
+        <h2 class="w-100 tc f3 f1-l white dn">Work, 2004-2014</h2>
+      </div>
+      <img class="w-100" src="/images/work_cover.jpg"/>
+      </a>
+    </div>
+    <div class="w-100 w-50-l cover">
+      <div class="overlay"></div>
+      <a href="/projects/exhaustion">
+      <div class="text w-100 flex flex-wrap items-center">
+        <h2 class="w-100 tc f3 f1-l white dn">Exhaustion / Épuisement, 2014</h2>
+      </div>
+      <img class="w-100" src="/images/exhaustion_cover.jpg"/>
+      </a>
+    </div>
+    <div class="w-100 w-50-l cover">
+      <div class="overlay"></div>
+      <a href="/projects/je-ne-me-souviens">
+      <div class="text w-100 flex flex-wrap items-center">
+        <h2 class="w-100 tc f3 f1-l white dn">Je ne me souviens, 2009</h2>
+      </div>
+      <img class="w-100" src="/images/jenemesouviens_cover.jpg"/>
+      </a>
+    </div>
+    <div class="w-100 w-50-l cover">
+      <div class="overlay"></div>
+      <a href="/projects/chroniques">
+      <div class="text w-100 flex flex-wrap items-center">
+        <h2 class="w-100 tc f3 f1-l white dn">Chroniques lavalloises - Expédition No. 9</h2>
+      </div>
+      <img class="w-100" src="/images/chroniques_cover.jpg"/>
+      </a>
+    </div>
+    <div class="w-100 w-50-l cover">
+      <div class="overlay"></div>
+      <a href="/projects/open-studio">
+      <div class="text w-100 flex flex-wrap items-center">
+        <h2 class="w-100 tc f3 f1-l white dn">Open Studio, 2008</h2>
+      </div>
+      <img class="w-100" src="/images/openstudio_cover.jpg"/>
+      </a>
+    </div>
+  </main>
+
+{{ end }}
