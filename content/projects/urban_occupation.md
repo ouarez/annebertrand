@@ -2,7 +2,7 @@
 title = "Urban Occupation / Occupation urbaine, 2011"
 description = "Urban Occupation / Occupation urbaine, 2011"
 cover_image = "/images/urbanoccup_day3_seign3.jpg"
-next_page = "/projects/je-ne-me-souviens"
+next_page = "/projects/Chroniques lavalloises - Expédition No. 9"
 images = [
   "/images/urbanoccup_charlev1.jpg",
   "/images/urbanoccup_day3_seign3.jpg",
