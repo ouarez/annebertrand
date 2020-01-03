@@ -3,6 +3,7 @@ title = "Chroniques lavalloises - Expédition No. 9"
 description = "Chroniques lavalloises - Expédition No. 9"
 cover_image = "/images/chroniques_cover.jpg"
 next_page = "/projects/open-studio"
+weight = 5
 images = [
 "/images/chroniques1.jpg",
 "/images/chroniques2.jpg",

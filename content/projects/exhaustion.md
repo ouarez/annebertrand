@@ -3,6 +3,7 @@ title = "Exhaustion / Épuisement, 2014"
 description = "Exhaustion / Épuisement, 2014"
 cover_image = "/images/exhaustion_cover.jpg"
 next_page = "/projects/je-ne-me-souviens"
+weight = 2
 images = [
   "/images/exhaustion1.jpg",
   "/images/exhaustion2.jpg",

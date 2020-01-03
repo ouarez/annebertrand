@@ -1,0 +1,26 @@
+
+{{ define "main" }}
+
+  {{ partial "header.html" }}
+
+  <main class="w-100 w-60-l pv5-l pa3 flex flex-wrap container">
+    <h1 class="w-100 pv3">Texts</h1>
+    {{ range .Pages }}
+      <div class="w-100 pv2 flex flex-wrap">
+        <div class="w-100 w-30-l pt3">
+          <img src="{{ .Params.cover_image }}"/>
+        </div>
+        <div class="w-100 w-50-l ph4 br3">
+          <p class="f4">{{.Title}}</p>
+            {{ range .Params.files }}
+              <div class="w-100 db pv1 pl3">
+                <a class="blue" href="{{ index . 1 }}"><span class="f6">{{ index . 0 }}</span></a>
+                <i class="fas fa-file-pdf dib ml2"></i>
+              </div>
+            {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </main>
+
+{{ end }}
