@@ -1,7 +1,7 @@
 +++
-cover_image = "/images/exhaustion_cover.jpg"
+cover_image = "/exhaustion_cover.jpg"
 description = "Exhaustion / Épuisement, 2014"
-images = ["/images/exhaustion1.jpg", "/images/exhaustion2.jpg", "/images/exhaustion3.jpg", "/images/exhaustion4.jpg", "/images/exhaustion5.jpg", "/images/exhaustion6.jpg", "/images/exhaustion7.jpg", "/images/exhaustion8.jpg", "/images/exhaustion9.jpg", "/images/exhaustion10.jpg", "/images/exhaustion11.jpg"]
+images = ["/exhaustion1.jpg", "/exhaustion2.jpg", "/exhaustion3.jpg", "/exhaustion4.jpg", "/exhaustion5.jpg", "/exhaustion6.jpg", "/exhaustion7.jpg", "/exhaustion8.jpg", "/exhaustion9.jpg", "/exhaustion10.jpg", "/exhaustion11.jpg"]
 next_page = "/projects/je-ne-me-souviens"
 title = "Exhaustion / Épuisement, 2014"
 weight = 2
