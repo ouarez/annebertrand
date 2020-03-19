@@ -17,3 +17,5 @@ fields:
 - type: list
   name: files
   label: files
+pages:
+- content/texts/artiste-inconnu.md
