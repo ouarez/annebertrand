@@ -21,6 +21,7 @@ fields:
   name: images
   label: images
 pages:
+- content/projects/exhaustion.md
 - content/projects/je-ne-me-souviens.md
 - content/projects/open-studio.md
 - content/projects/work.md
