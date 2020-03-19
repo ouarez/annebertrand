@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texts on Anne Bertrand</title>
+    <link>https://annebertrand.netlify.com/texts/</link>
+    <description>Recent content in Texts on Anne Bertrand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    
+	<atom:link href="https://annebertrand.netlify.com/texts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catalogue ESSE / ESSE Catalogue (2013)</title>
+      <link>https://annebertrand.netlify.com/texts/esse-catalogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annebertrand.netlify.com/texts/esse-catalogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;artiste inconnu / The Unknown Artist (2012)</title>
+      <link>https://annebertrand.netlify.com/texts/artiste-inconnu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annebertrand.netlify.com/texts/artiste-inconnu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
