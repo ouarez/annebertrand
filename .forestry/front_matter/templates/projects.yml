@@ -21,4 +21,5 @@ fields:
   name: images
   label: images
 pages:
+- content/projects/open-studio.md
 - content/projects/work.md
