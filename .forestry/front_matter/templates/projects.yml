@@ -1,0 +1,19 @@
+---
+label: Projects
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: cover_image
+  label: cover_image
+- type: number
+  name: weight
+  label: weight
+- type: list
+  name: files
+  label: files
