@@ -1,5 +1,5 @@
 +++
-cover_image = "/work.jpg"
+cover_image = "/work_cover.jpg"
 description = "Work 2004-2014"
 images = []
 next_page = "/projects/exhaustion"
