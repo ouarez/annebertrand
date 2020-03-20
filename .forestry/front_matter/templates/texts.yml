@@ -14,9 +14,21 @@ fields:
 - type: number
   name: weight
   label: weight
-- type: list
-  name: files
-  label: files
+- name: file
+  type: field_group
+  config: {}
+  fields:
+  - name: text_name
+    type: text
+    config:
+      required: false
+    label: Text Name
+  - name: file
+    type: file
+    config:
+      maxSize: 250
+    label: File
+  label: File
 pages:
 - content/texts/artiste-inconnu.md
 - content/texts/esse-catalogue.md
