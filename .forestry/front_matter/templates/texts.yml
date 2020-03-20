@@ -14,21 +14,26 @@ fields:
 - type: number
   name: weight
   label: weight
-- name: file
-  type: field_group
-  config: {}
+- name: text
+  type: field_group_list
   fields:
-  - name: text_name
+  - name: name
     type: text
     config:
       required: false
-    label: Text Name
+    label: Name
+    description: The name of the text
   - name: file
     type: file
     config:
       maxSize: 250
     label: File
-  label: File
+    description: Upload your text (PDF, Word, etc.)
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Text
 pages:
 - content/texts/artiste-inconnu.md
 - content/texts/esse-catalogue.md
