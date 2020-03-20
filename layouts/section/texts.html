@@ -12,9 +12,9 @@
         </div>
         <div class="w-100 w-50-l ph4 br3">
           <p class="f4">{{.Title}}</p>
-            {{ range .Params.files }}
+            {{ range .Params.text }}
               <div class="w-100 db pv1 pl3">
-                <a class="blue" href="{{ index . 1 }}"><span class="f6">{{ index . 0 }}</span></a>
+                <a class="blue" href="{{ .file }}"><span class="f6">{{ .name }}</span></a>
                 <i class="fas fa-file-pdf dib ml2"></i>
               </div>
             {{ end }}
