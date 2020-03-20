@@ -7,5 +7,11 @@ weight = 1
 [file]
 file = "/2012_artiste_inconnu_fr.pdf"
 text_name = "L'artiste inconnu (2012)"
+[[text]]
+file = "/2012_unknown_artist_en.pdf"
+name = "The Unknown Artist (2012)"
+[[text]]
+file = "/2012_artiste_inconnu_fr.pdf"
+name = "L'Artiste Inconnu (2012)"
 
 +++
