@@ -8,7 +8,7 @@ weight = nil
 file = "/2018_94_Bertrand_PF-Ibghy-Lemmens_FR.pdf"
 name = "Richard Ighby et Marilou Lemmens"
 [[text]]
-file = ""
-name = ""
+file = "/2018_94_Bertrand_PF-Ibghy-Lemmens_EN.pdf"
+name = "Richard Ighby and Marilou Lemmens"
 
 +++
