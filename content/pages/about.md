@@ -1,8 +1,10 @@
 +++
 cover_image = "/work_cover.jpg"
 description = "This is the about page"
-menu = "About"
 title = "About"
+[menu.main]
+name = ""
+weight = 1
 
 +++
 THIS IS THE ABOUT PAGE
