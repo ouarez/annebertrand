@@ -1,7 +1,6 @@
 +++
 cover_image = "/fuse_36-1.jpg"
 description = "\"Re-enchanting the Institution\", Fuse, 36-1, p. 4-5"
-draft = true
 title = "Re-enchanting the Institution"
 weight = 2
 [[text]]
