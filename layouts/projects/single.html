@@ -7,6 +7,7 @@
 
     <div class="w-100 pa3 flex justify-between">
       <a href="/"><i class="fas fa-arrow-left black"></i></a>
+      <a href="{{.Params.next_page}}"><i class="fas fa-arrow-right black"></i></a>
     </div>
 
     <div class="w-100 w-50-l pa3">
@@ -17,6 +18,13 @@
       <h2>{{.Title}}</h2>
       {{ .Content }}
     </div>
+
+    {{ range .Params.images }}
+    <div class="w-100 w-50-l pa3">
+      <img src="{{ . }}"/>
+    </div>
+    {{ end }}
+
 
   </main>
 

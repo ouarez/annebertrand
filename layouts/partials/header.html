@@ -1,14 +1,16 @@
 <header class="w-100 flex fixed bg-white black pa3 pa4-l">
   <nav class="w-100 flex flex-wrap items-center justify-between container">
-    <div class="w-100 w-33-l dn db-l">
-
-    </div>
-    <div class="w-100 w-33-l tc">
+    <div class="w-100 w-33-l">
       <h1><a href="/" alt="{{.Title}}">Anne Bertrand</a></h1>
     </div>
-    <div class="w-100 w-33-l tr dn db-l">
+    <div class="w-100 w-60-l tr dn db-l">
+      <a href="/projects/work" alt="work">Projects</a>
       <a href="/texts" alt="work">Texts</a>
-      <a href="/about" alt="work">About</a>
+      {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+          <a href="{{ .URL }}" alt="{{ .Name }}">{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
     </div>
     <!-- mobile nav -->
     <div class="w-100 w-33-l tc db dn-l">
