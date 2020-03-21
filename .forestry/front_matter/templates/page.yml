@@ -7,3 +7,13 @@ fields:
   config:
     required: false
   label: Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+- name: cover_image
+  type: file
+  config:
+    maxSize: 250
+  label: Cover Image
