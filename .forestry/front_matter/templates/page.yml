@@ -23,3 +23,5 @@ fields:
     required: false
   label: Menu
   default: main
+pages:
+- content/pages/test.md
