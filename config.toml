@@ -1,5 +1,4 @@
 baseURL = "https://annebertrand.info"
+description = "Portfolio de Anne Bertrand"
 languageCode = "fr-ca"
 title = "Anne Bertrand"
-description = "Portfolio de Anne Bertrand"
-[menu]
