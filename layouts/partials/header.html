@@ -7,9 +7,7 @@
       <a href="/projects/work" alt="work">Projects</a>
       <a href="/texts" alt="work">Texts</a>
       {{ range .Site.Menus.main }}
-        {{ if .HasChildren }}
-          <a href="{{ .URL }}" alt="{{ .Name }}">{{ .Name }}</a>
-        {{ end }}
+        <a href="{{ .URL }}" alt="{{ .Name }}">{{ .Name }}</a>
       {{ end }}
     </div>
     <!-- mobile nav -->

@@ -1,7 +1,7 @@
 
 {{ define "main" }}
 
-  {{ partial "header.html" }}
+  {{ partial "header" . }}
 
   <main class="w-100 flex flex-wrap container">
     {{ range where .Site.RegularPages "Section" "projects" }}
