@@ -1,5 +1,5 @@
 +++
-cover_image = "/work_cover.jpg"
+cover_image = "/1923470773_d18c96a698.jpg"
 description = "This is the about page"
 title = "About"
 [menu.main]
