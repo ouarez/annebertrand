@@ -2,7 +2,7 @@
 cover_image = "/1989_mpm_00install.jpg"
 description = "Séquence photo"
 images = ["/1989_MPM_paysage.jpg", "/1989_mpm_cathedrale.jpg"]
-next_page = "projects/deterrant"
+next_page = "projects-deterrant-l-epaule-de-marbre-d-un-heros"
 title = "Pictogrammes, 1989"
 weight = 9
 
