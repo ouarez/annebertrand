@@ -2,7 +2,7 @@
 cover_image = "/chroniques1.jpg"
 description = "série de cartes postales publiée dans le recueil Chroniques lavalloises - Expédition No. 9"
 images = ["/chroniques_cover.jpg", "/chroniques3.jpg", "/chroniques5.jpg", "/chroniques4.jpg", "/chroniques6.jpg", "/chroniques2.jpg"]
-next_page = "/projects/"
+next_page = "/projects/exhaustion"
 title = "Chroniques lavalloises - Expédition No. 9, 2013"
 weight = 2
 
