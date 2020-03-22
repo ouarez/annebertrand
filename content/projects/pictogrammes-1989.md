@@ -1,7 +1,6 @@
 +++
 cover_image = "/1989_mpm_00install.jpg"
 description = "Séquence photo"
-draft = true
 images = ["/1989_MPM_paysage.jpg", "/1989_mpm_cathedrale.jpg"]
 next_page = ""
 title = "Pictogrammes, 1989"
