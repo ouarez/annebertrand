@@ -21,6 +21,7 @@ fields:
   name: images
   label: images
 pages:
+- content/projects/butin-de-campagne-1986.md
 - content/projects/chroniques.md
 - content/projects/exhaustion.md
 - content/projects/handmade-assembly-assemblé-à-la-main-2004.md
