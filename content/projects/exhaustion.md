@@ -2,7 +2,7 @@
 cover_image = "/exhaustion_cover.jpg"
 description = "Exhaustion / Épuisement, 2014"
 images = ["/exhaustion11.jpg", "/exhaustion10.jpg", "/exhaustion9.jpg", "/exhaustion8.jpg", "/exhaustion7.jpg", "/exhaustion6.jpg", "/exhaustion5.jpg", "/exhaustion4.jpg", "/exhaustion3.jpg", "/exhaustion2.jpg", "/exhaustion1.jpg"]
-next_page = "/projects/occupation_urbaine"
+next_page = "/projects/chroniques_lavalloises"
 title = "Exhaustion / Épuisement, 2014"
 weight = 2
 
