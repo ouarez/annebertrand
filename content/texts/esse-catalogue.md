@@ -6,6 +6,6 @@ title = "Catalogue ESSE / ESSE Catalogue (2013)"
 weight = 6
 [[text]]
 file = "/2013-Esse-Catalogue.pdf"
-name = "ESSE Catalogue (2013)"
+name = "Cultural Philanthropy in Québec: More than a Business Relationship (2013)"
 
 +++
