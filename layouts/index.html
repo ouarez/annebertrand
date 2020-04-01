@@ -5,13 +5,12 @@
 
   <main class="w-100 flex flex-wrap container">
     {{ range where .Site.RegularPages "Section" "projects" }}
-      <div class="w-100 w-50-l cover">
-        <div class="overlay"></div>
+      <div class="w-100 w-50-l mb3">
         <a href="{{.Permalink}}">
-        <div class="text w-100 flex flex-wrap items-center">
-          <h2 class="w-100 tc f3 f1-l white dn">{{.Title}}</h2>
-        </div>
-        <img class="w-100" src="{{ .Params.cover_image }}"/>
+          <div class="w-100 flex flex-wrap items-center pa3 pa4-l box">
+            <img class="w-100" src="{{ .Params.cover_image }}"/>
+            <h2 class="w-100 f3 f2-l black">{{.Title}}</h2>
+          </div>
         </a>
       </div>
     {{ end }}

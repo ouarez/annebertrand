@@ -4,18 +4,17 @@
       <h1><a href="/" alt="{{.Title}}">Anne Bertrand</a></h1>
     </div>
     <div class="w-100 w-60-l tr dn db-l">
-      <a href="/projects/work" alt="work">Projects</a>
-      <a href="/texts" alt="work">Texts</a>
+      {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" alt="{{ .Name }}">{{ .Name }}</a>
+        <a href="{{ .URL }}" alt="{{ .Name }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
       {{ end }}
     </div>
     <!-- mobile nav -->
-    <div class="w-100 w-33-l tc db dn-l">
-      <a href="/" alt="Projects">Projects</a>
-      <a href="/texts" alt="work">Texts</a>
+    <div class="w-100 flex flex-wrap tc db dn-l">
       {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}" alt="{{ .Name }}">{{ .Name }}</a>
+      <div class="w-100 pb3 pt1">
+        <a href="{{ .URL }}" alt="{{ .Name }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+      </div>
       {{ end }}
     </div>
     <!-- end mobile nav -->

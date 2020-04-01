@@ -2,3 +2,15 @@ baseURL = "https://annebertrand.info"
 description = "Portfolio de Anne Bertrand"
 languageCode = "fr-ca"
 title = "Anne Bertrand"
+
+[menu]
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Texts"
+    url = "/texts/"
+    weight = -100
