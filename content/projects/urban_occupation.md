@@ -7,4 +7,4 @@ title = "Urban Occupation / Occupation urbaine, 2011"
 weight = 4
 
 +++
-Urban Occupation consists in the furtive install of 21 plasticized ornemental tiles made from gifted cast-off bristol board and recycled peach wrappers. The tiles were installed in 3 different locations, two along the Lachine Canal and one under the Bonaventure highway, as part of, and slightly outside of, a group exhibition held outdoors in Griffintown.
+Urban Occupation consists in the furtive install of 21 plasticized ornemental tiles made from gifted cast-off bristol board and recycled peach wrappers. The tiles were installed in 3 different locations, two along the Lachine Canal and one under the Bonaventure highway, as part of, and outside of, a group exhibition held outdoors in Griffintown.
