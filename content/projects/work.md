@@ -1,7 +1,6 @@
 +++
 cover_image = "/work_cover.jpg"
 description = "Work 2004-2014"
-draft = true
 images = []
 next_page = "/projects/exhaustion"
 title = "Work 2004-2014"
