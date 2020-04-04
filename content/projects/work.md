@@ -1,10 +1,11 @@
 +++
 cover_image = "/work_cover.jpg"
 description = "Work 2004-2014"
+draft = true
 images = []
 next_page = "/projects/exhaustion"
 title = "Work 2004-2014"
-weight = 0
+weight = -1
 
 +++
 Work 2004– 2014 est une fiction autobiographique illustrée publiée à compte d’auteur représentant une tranche de 10 ans de vie au travail. La publication regroupe le matériel produit à partir de matériaux récupérés sur les lieux du travail, et réalisé, au départ, pour apaiser les frustrations vécues au quotidien, par la routine d’un emploi. Il en résulte un petit manuel qui décrit, non sans humour, qu’il n’est pas nécessaire de laisser l’invention à la porte de son bureau et comment toutes les facettes de l’existence – du sujet – finissent par se recouper.
