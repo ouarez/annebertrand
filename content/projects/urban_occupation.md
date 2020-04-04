@@ -1,7 +1,7 @@
 +++
 cover_image = "/urbanoccup_day3_seign3.jpg"
 description = "Urban Occupation / Occupation urbaine, 2011"
-images = ["/urbanoccup_day4_bonav3.jpg", "/urbanoccup_day4_bonav.jpg", "/urbanoccup_day3_seigne.jpg", "/urbanoccup_day3_seign3-1.jpg", "/urbanoccup_charlev1.jpg"]
+images = ["/urbanoccup_day4_bonav3.jpg", "/urbanoccup_day3_seigne.jpg", "/urbanoccup_day3_seign3-1.jpg", "/urbanoccup_charlev1.jpg"]
 next_page = "/projects/je_ne_me_souviens"
 title = "Urban Occupation / Occupation urbaine, 2011"
 weight = 4
