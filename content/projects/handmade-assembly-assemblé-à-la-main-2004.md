@@ -6,6 +6,8 @@ next_page = "projects/work-2004-the-exhibition"
 text_en = "Five simple pick-up works produced between household chores and paid work.\n\nExhibition presented in the hall of Centre St. Pierre, Montréal, from 2 to 31 March 2006."
 texte_fr = "Cinq ouvrages non-guidés produits à temps perdu entre tâches domestiques et travail rémunéré\n\nExposition présentée dans le hall d'entrée du Centre Saint-Pierre, Montréal, du 2 au 31 mars 2006."
 title = "Handmade Assembly / Assemblé à la main, 2006"
+title_en = "Handmade Assembly, 2006"
+title_fr = "Assemblé à la main, 2006"
 weight = 7
 
 +++
