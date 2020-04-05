@@ -43,9 +43,6 @@ fields:
 - type: file
   name: cover_image
   label: cover_image
-- type: text
-  name: next_page
-  label: next_page
 - type: number
   name: weight
   label: weight

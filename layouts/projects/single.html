@@ -6,8 +6,14 @@
   <main class="w-100 flex flex-wrap container">
 
     <div class="w-100 pa3 flex justify-between">
-      <a href="/"><i class="fas fa-arrow-left black"></i></a>
-      <a href="{{.Params.next_page}}"><i class="fas fa-arrow-right black"></i></a>
+      {{ with .NextInSection }}
+        <a href="{{ .Permalink }}"><i class="fas fa-arrow-left black"></i></a>
+        {{ else }}
+          <a href="/"><i class="fas fa-arrow-left black"></i></a>
+      {{ end }}
+      {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}"><i class="fas fa-arrow-right black"></i></a>
+      {{ end }}
     </div>
 
     <div class="w-100 pa3">
