@@ -8,6 +8,12 @@ fields:
 - type: text
   name: description
   label: description
+- type: text
+  name: text_french
+  label: Texte (FR)
+- type: text
+  name: text_english
+  label: Texte (EN)
 - type: file
   name: cover_image
   label: cover_image
