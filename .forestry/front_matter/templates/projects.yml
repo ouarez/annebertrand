@@ -8,12 +8,26 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: text_french
+- name: texte_fr
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Texte (FR)
-- type: text
-  name: text_english
-  label: Texte (EN)
+  description: French text goes here
+- name: text_en
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text (EN)
+  description: English text goes here
 - type: file
   name: cover_image
   label: cover_image
