@@ -1,9 +1,13 @@
 +++
 cover_image = "/exhaustion_cover.jpg"
 description = "Exhaustion / Épuisement, 2014"
-images = ["/exhaustion11.jpg", "/exhaustion10.jpg", "/exhaustion9.jpg", "/exhaustion8.jpg", "/exhaustion7.jpg", "/exhaustion6.jpg", "/exhaustion5.jpg", "/exhaustion4.jpg", "/exhaustion2.jpg", "/exhaustion1.jpg", "/exhaustion3.jpg"]
+images = ["/exhaustion11.jpg", "/exhaustion10.jpg", "/exhaustion9.jpg", "/exhaustion8.jpg", "/exhaustion7.jpg", "/exhaustion5.jpg", "/exhaustion4.jpg", "/exhaustion2.jpg", "/exhaustion1.jpg", "/exhaustion3.jpg"]
 next_page = "/projects/chroniques_lavalloises"
+text_en = ""
+texte_fr = ""
 title = "Exhaustion / Épuisement, 2014"
+title_en = ""
+title_fr = ""
 weight = 2
 
 +++
