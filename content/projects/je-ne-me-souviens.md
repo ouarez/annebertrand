@@ -1,7 +1,7 @@
 +++
 cover_image = "/jenemesouviens_cover.jpg"
 description = "Je ne me souviens, 2010"
-images = ["/014.jpg", "/010.jpg", "/008.jpg", "/006.jpg", "/004.jpg", "/003.jpg", "/002.jpg", "/jenemesouviens3.jpg", "/jenemesouviens2.jpg", "/009.jpg", "/016.jpg"]
+images = ["/004.jpg", "/008.jpg", "/014.jpg", "/006.jpg", "/002.jpg", "/jenemesouviens3.jpg", "/jenemesouviens2.jpg", "/010.jpg", "/016.jpg"]
 next_page = "/projects/made_in_china"
 title = "Je ne me souviens, 2010"
 weight = 5
