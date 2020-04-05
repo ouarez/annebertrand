@@ -7,7 +7,7 @@
     {{ range where .Site.RegularPages "Section" "projects" }}
       <div class="w-100 w-50-l mb3">
         <a href="{{.Permalink}}">
-          <div class="w-100 flex flex-wrap items-center pa3 pa4-l box">
+          <div class="w-100 flex flex-wrap items-center pa3 box">
             <img class="w-100" src="{{ .Params.cover_image }}"/>
             <h3 class="w-100 f4 f3-l black alt">{{.Title}}</h3>
           </div>
