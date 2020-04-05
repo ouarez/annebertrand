@@ -1,8 +1,12 @@
-$primary-font: 'Nunito', sans-serif;
-$alt-font: 'Open-Sans', sans-serif;
+$primary-font: 'Libre Franklin', sans-serif;
+$alt-font: 'Nunito', sans-serif;
 
 .hover:hover {
   text-decoration: underline;
+}
+
+.alt {
+  font-family:$alt-font;
 }
 
 body {
