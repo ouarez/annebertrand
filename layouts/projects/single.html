@@ -10,13 +10,17 @@
       <a href="{{.Params.next_page}}"><i class="fas fa-arrow-right black"></i></a>
     </div>
 
-    <div class="w-100 w-50-l pa3">
+    <div class="w-100 pa3">
       <img src="{{.Params.cover_image}}"/>
     </div>
 
     <div class="w-100 w-50-l ph4">
       <h2>{{.Title}}</h2>
-      {{ .Content }}
+      {{ .Params.text_en }}
+    </div>
+
+    <div class="w-100 w-50-l ph4">
+      {{ .Params.texte_fr }}
     </div>
 
     {{ range .Params.images }}
