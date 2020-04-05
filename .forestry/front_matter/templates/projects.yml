@@ -8,6 +8,12 @@ fields:
 - type: text
   name: description
   label: description
+- name: title_fr
+  type: text
+  config:
+    required: false
+  label: Titre (FR)
+  description: French title
 - name: texte_fr
   type: textarea
   default: ''
@@ -18,6 +24,12 @@ fields:
       format: markdown
   label: Texte (FR)
   description: French text goes here
+- name: title_en
+  type: text
+  config:
+    required: false
+  label: Title (EN)
+  description: English title
 - name: text_en
   type: textarea
   default: ''
