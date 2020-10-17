@@ -18,7 +18,7 @@ In the early 80’s, the visual arts department at the University of Ottawa was 
 
 **Circuitous career path for self-knowledge**
 
-Since then, I have meandered from job to job until re-entering the art world in the early 90’s working at Artexte, an information centre on Canadian contemporary art, another great school where I experienced workplace politics while learning about arts admin, cataloguing & indexing. I stumbled into Skol in 2004 where I stayed for 8 years, until 2012. During my tenure at SKOL, I was honoured to support the development of the Apprendre/Learn program, and curated projects such as the Unknown Artist, the Erratic School, Teasing the Furtive, Embracing the Archive, and Promiscuous Infrastructures in addition to numerous gallery exhibitions and activities.
+Since then, I have meandered from job to job until re-entering the art world in the early 90’s working at Artexte, an information centre on Canadian contemporary art, another great school where I experienced workplace politics while learning about arts admin, cataloguing & indexing. I stumbled into Skol in 2004 where I stayed for 8 years, until 2012. During my tenure at SKOL, I was honoured to support the development of the _Apprendre/Learn_ program, and curated projects such as the Unknown Artist, the Erratic School, Teasing the Furtive, Embracing the Archive, and Promiscuous Infrastructures in addition to numerous gallery exhibitions and activities.
 
 **Ongoing exploration: across Canada's artist-run network**
 
@@ -30,7 +30,7 @@ I’m now on my own, working on some modest art projects while developing a comm
 
 **Making art**
 
-Whether under Unregistered Concept or Outsider from Within, two transient identities created for the exploration of furtive artistic production and dissemination, I continue to produce whimsical assemblages composed of many parts of post-production materials collected from everyday life and chosen for their forms, colours and rhythmic motifs.
+Whether under _Unregistered Concept_ or _Outsider from Within_, two transient identities created for the exploration of furtive artistic production and dissemination, I continue to produce whimsical assemblages composed of many parts of post-production materials collected from everyday life and chosen for their forms, colours and rhythmic motifs.
 
 ***
 
@@ -54,7 +54,7 @@ J’ai quitté Skol quand j’ai été embauché par ARCA, une fédération d’
 
 **Aujourd'hui: apprentissage par projet continu**
 
-Je suis désormais à mon compte, travaillant sur de modestes projets artistiques tout en développant un service de communication à l’AGAVF, sous le mentorat de leur directrice, Lise Leblanc. Et je suis tellement reconnaissante pour tous les apprentissages faits au fil des années que je peux maintenant synthétiser et valoriser en partageant.
+Je suis désormais à mon compte, travaillant sur de modestes projets artistiques tout en développant un service de communication à l’AGAVF, sous le mentorat de leur directrice, Lise Leblanc. Et je suis reconnaissante pour tous les apprentissages faits au fil des années que je peux maintenant synthétiser et valoriser en partageant.
 
 **Faire de l'art en bricolant**
 
