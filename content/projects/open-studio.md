@@ -2,11 +2,11 @@
 cover_image = "/communique_openstudio2-1.gif"
 description = ""
 images = ["/openstudio1.jpg", "/2008_oopenstudio_vert11.jpg", "/openstudio_cover.jpg", "/2008_oopenstudio_vert05.jpg", "/2008_oopenstudio_vert06.jpg", "/2008_oopenstudio_vert07.jpg", "/2008_oopenstudio_vert08.jpg", "/2008_oopenstudio_vert09.jpg", "/2008_oopenstudio_vert10.jpg"]
-text_en = ""
-texte_fr = ""
+text_en = "_Outsider Art from Within_ stands for an artistic identity that came to me when I spent a summer working in one of four rental spaces in Felicity Tayler’s studio located in St-Henri. In that context, I played around with the individual small unguided works I had produced at home, in my free time, between work and chores. Carried over to the studio in banker boxes, the various pieces were then hung on wire, placed on shelves, or pegged to a board until the arrangement felt satisfying to my eye, like a painting. I have produced more small pieces since and might now be able to cover an entire wall, curtain like, or produce an immersive environment. The guiding principle of the assemblage is that it can be taken down and stored in banker boxes for easy storage and shipping.\n\nThese photos were taken by me after an open studio event organized in late August with Felicity."
+texte_fr = "_Outsider Art from Within_ représente une identité artistique qui m'est venue lorsque j'ai passé un été à travailler dans l'un des quatre espaces locatifs du studio de Felicity Tayler situé à St-Henri. Dans ce contexte, j'ai joué avec les petites œuvres individuelles non guidées que j'avais produites à la maison, pendant mon temps libre, entre le travail et les tâches ménagères. Transportées à l'atelier dans des boîtes bancaires, les différentes pièces ont ensuite été suspendues sur du fil de fer, placées sur des étagères ou fixées sur un panneau perforé jusqu'à ce que l'agencement me satisfasse, comme une peinture. J'ai produit plus de petites pièces depuis et je pourrais peut-être maintenant couvrir un mur entier, comme un rideau, ou produire un environnement immersif. Le principe directeur de l'assemblage est qu'il peut être démonté et stocké dans des boîtes bancaires pour un rangement facile.\n\nCes photos ont été prises par moi à la suite d’un événement d'ateliers ouverts organisé avec Felicity à la fin du mois d'août."
 title = "Outsider Art from Within, 2008"
-title_en = ""
-title_fr = ""
+title_en = "Outsider Art from Within"
+title_fr = "Outsider Art from Within"
 weight = 7
 
 +++
