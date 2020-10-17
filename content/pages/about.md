@@ -22,8 +22,6 @@ Whether under Unregistered Concept or Outsider from Within, two transient identi
 
 ***
 
-***
 
-***
 
 \* Image credit: 20 second portrait by Donna Akrey
