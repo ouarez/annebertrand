@@ -6,7 +6,7 @@ text_en = ""
 texte_fr = ""
 title = "Made in China, 2009"
 title_en = ""
-title_fr = ""
+title_fr = "Made in China, 2009"
 weight = 6
 
 +++
