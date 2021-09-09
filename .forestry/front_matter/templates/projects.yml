@@ -50,7 +50,6 @@ fields:
   name: images
   label: images
 pages:
-- content/projects/Haircut.md
 - content/projects/chroniques.md
 - content/projects/déterrant-l-épaule-de-marbre-d-un-héros-1986.md
 - content/projects/exhaustion.md
