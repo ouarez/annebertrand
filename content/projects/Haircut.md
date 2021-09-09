@@ -8,6 +8,6 @@ texte_fr = "[https://youtu.be/NpNTeUl2KKg](https://youtu.be/NpNTeUl2KKg)"
 title = ""
 title_en = "Haircut, 2018"
 title_fr = "Coupe de cheveux, 2018"
-weight = nil
+weight = 1
 
 +++
