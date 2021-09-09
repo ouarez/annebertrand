@@ -4,7 +4,7 @@ description = ""
 draft = true
 images = []
 text_en = "A short video recounting the piecing together of a story from my aunt Gemma's slides salvaged while death cleaning her place some 30 years ago."
-texte_fr = "Une courte vidéo au sujet de la reconstitution d'une histoire de la vie de ma tante Gemma à partir des diapositives recueillies en faisant le ménage de son logement après son décès il y a environ 30 ans."
+texte_fr = "Une courte vidéo au sujet de la reconstitution d'une histoire de la vie de ma tante Gemma à partir des diapositives recueillies en faisant le ménage de son logement après son décès il y a environ 30 ans.\n\n[https://www.youtube.com/watch?v=N1wIjYZ2msg](https://www.youtube.com/watch?v=N1wIjYZ2msg \"https://www.youtube.com/watch?v=N1wIjYZ2msg\")"
 title = "Desktop video, 2020"
 title_en = "Tante Gemma's Holiday in Bavaria"
 title_fr = "Les vacances de tante Gemma en Bavière"
